@@ -4,7 +4,7 @@
 int main()
 {
     Solution solution ;
-    std::cout << solution.PrintHelloWorld() << std::endl;
-
+   // std::cout << solution.PrintHelloWorld() << std::endl;
+    std::cout << solution.Printinfo() << std::endl;
     return EXIT_SUCCESS;
 }
