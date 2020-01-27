@@ -1,3 +1,6 @@
+Question 4  Print Info
+Question 6  factorial Function
+
 # C++ Template for Bazel and Google Test
 
 > Can be used in Visual Studio Code
